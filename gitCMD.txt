@@ -1,0 +1,1 @@
+git checkout -- one.txt ³·Ïú
